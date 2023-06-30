@@ -1,0 +1,8 @@
+__pycache__
+*.zip
+*.rar
+*.log
+*.bak
+*.onnx
+
+/movenet.pytorch/lib/__pycache__
